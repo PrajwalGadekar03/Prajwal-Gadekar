@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Improving Java Framework Skills And Automation Testing Skills
 
-- 📫 How to reach me *prajwalgadekar03@gmail.com*
+- 📫 My Email Id *prajwalgadekar03@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
