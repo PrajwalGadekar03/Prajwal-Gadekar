@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal Gadekar</h1>
-<h3 align="center">A passionate Software Tester from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m Currently Improving My Java Framework Skills And Automation Testing Skills
+- 🔭 I’m Currently Improving My Java Framework Skills And Automation Testing Skills.
 
 - 📫 My Email Id *prajwalgadekar03@gmail.com*
 
